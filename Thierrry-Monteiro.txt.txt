@@ -1,0 +1,9 @@
+Nome: Thierry Weissheimer Monteiro
+
+Desenvolvimento dos trabalhos: 6.5
+
+	O t1 foi feito em conjunto da dupla, funciona e falta somente a parte III. Para o t2, como citado anteriormente, devido a falta de organização e dificuldades, o trabalho 2 não será entregue concluído rodando, mas estamos trabalhando para que o trabalho funcione e tenha as implementações necessárias. 
+
+Domínio dos conteúdos: 8.5
+
+	As dificuldades encontradas para absorção do conteúdo foram nas seções de gerência de E/S e Deadlock. O restante foi compreendido bem.

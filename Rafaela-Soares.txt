@@ -1,0 +1,10 @@
+Nome: Rafaela da Rosa Soares
+
+Desenvolvimento dos trabalhos: 6.5
+
+	O trabalho 1 foram realizadas as partes I e II do trabalho em conjunto da dupla, além de ajudas solicitadas para o Programa de Educação Tutorial do curso de Ciência da Computação, para a realização de algumas funções solicitadas no trabalho. As partes realizadas funcionam 
+ O T2 está sendo implementado, a partir do que foi realizado no T1, até então. Está demorando para debugar problemas de memória.  A entrega realizada será parcial, pois, devido a falta de organização e certas dificuldades na implementação, não conseguimos dar segmento contínuo nele para a entrega final ocorrer dia 11.
+
+Domínio dos conteúdos: 8
+	
+	Os conteúdos foram absorvidos de forma razoável, tive mais dificuldade na parte de comunicação entre processos e sistemas de arquivo, especialmente por serem conteúdos que não foram abrangidos no trabalho, então não houve um grande enfoque. Consegui compreender bem gerência de processos e proteção de memória, pude fazer várias associações com a disciplina de arquiteturas de computadores.

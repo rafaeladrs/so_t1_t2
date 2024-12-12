@@ -1,0 +1,2248 @@
+SO: carga de 'trata_int.maq' em 10-15
+CMD: 'c'
+SO: recebi IRQ 0 (Reset)
+SO: carga de 'init.maq' em 100-270
+Escalonando...
+[0, 2]
+[-1, -1]
+[-1, -1]
+[-1, -1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 2]
+[-1, -1]
+[-1, -1]
+[-1, -1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[-1, -1]
+[-1, -1]
+[-1, -1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[-1, -1]
+[-1, -1]
+[-1, -1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[-1, -1]
+[-1, -1]
+[-1, -1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 2]
+[-1, -1]
+[-1, -1]
+[-1, -1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[-1, -1]
+[-1, -1]
+[-1, -1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[-1, -1]
+[-1, -1]
+[-1, -1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[-1, -1]
+[-1, -1]
+[-1, -1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 2]
+[-1, -1]
+[-1, -1]
+[-1, -1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[-1, -1]
+[-1, -1]
+[-1, -1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[-1, -1]
+[-1, -1]
+[-1, -1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[-1, -1]
+[-1, -1]
+[-1, -1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 2]
+[-1, -1]
+[-1, -1]
+[-1, -1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[-1, -1]
+[-1, -1]
+[-1, -1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[-1, -1]
+[-1, -1]
+[-1, -1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[-1, -1]
+[-1, -1]
+[-1, -1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 2]
+[-1, -1]
+[-1, -1]
+[-1, -1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[-1, -1]
+[-1, -1]
+[-1, -1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[-1, -1]
+[-1, -1]
+[-1, -1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[-1, -1]
+[-1, -1]
+[-1, -1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 2]
+[-1, -1]
+[-1, -1]
+[-1, -1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[-1, -1]
+[-1, -1]
+[-1, -1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[-1, -1]
+[-1, -1]
+[-1, -1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[-1, -1]
+[-1, -1]
+[-1, -1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 2]
+[-1, -1]
+[-1, -1]
+[-1, -1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[-1, -1]
+[-1, -1]
+[-1, -1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[-1, -1]
+[-1, -1]
+[-1, -1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[-1, -1]
+[-1, -1]
+[-1, -1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 2]
+[-1, -1]
+[-1, -1]
+[-1, -1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[-1, -1]
+[-1, -1]
+[-1, -1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 7
+Syscall CRIA_PROC
+SO: carga de 'p1.maq' em 7000-7241
+Escalonando...
+[0, 1]
+[-1, -1]
+[-1, -1]
+[1, 2]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[-1, -1]
+[-1, -1]
+[1, 1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 1]
+[-1, -1]
+[-1, -1]
+[1, 2]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[-1, -1]
+[-1, -1]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 7
+Syscall CRIA_PROC
+SO: carga de 'p2.maq' em 8000-8243
+Escalonando...
+[0, 1]
+[-1, -1]
+[2, 2]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[-1, -1]
+[2, 1]
+[1, 2]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 2]
+[-1, -1]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 7
+Syscall CRIA_PROC
+SO: carga de 'p3.maq' em 9000-9241
+Escalonando...
+[0, 1]
+[3, 2]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 2]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 1]
+[1, 2]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[3, 1]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 1]
+[3, 2]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 2]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 1]
+[1, 2]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[3, 1]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 1]
+[3, 2]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 2]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 1]
+[1, 2]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[3, 1]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 1]
+[3, 2]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 2]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 1]
+[1, 2]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[3, 1]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 1]
+[3, 2]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 2]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 1]
+[1, 2]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[3, 1]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 1]
+[3, 2]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 2]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 1]
+[1, 2]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[3, 1]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 1]
+[3, 2]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 2]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 1]
+[1, 2]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[3, 1]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 1]
+[3, 2]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 2]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 1]
+[1, 2]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[3, 1]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 1]
+[3, 2]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 2]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 1]
+[1, 2]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[3, 1]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 1]
+[3, 2]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 2]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 1]
+[1, 2]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[3, 1]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 1]
+[3, 2]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 2]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 1]
+[1, 2]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[3, 1]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 1]
+[3, 2]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 2]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 1]
+[1, 2]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[3, 1]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 1]
+[3, 2]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 2]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 1]
+[1, 2]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[3, 1]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 1]
+[3, 2]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 2]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 1]
+[1, 2]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[3, 1]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 1]
+[3, 2]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 2]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 1]
+[1, 2]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[3, 1]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 1]
+[3, 2]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 2]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 1]
+[1, 2]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[3, 1]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 1]
+[3, 2]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 2]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 1]
+[1, 2]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[3, 1]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 1]
+[3, 2]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 2]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 1]
+[1, 2]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[3, 1]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 1]
+[3, 2]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 2]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 1]
+[1, 2]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[3, 1]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 1]
+[3, 2]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 2]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 1]
+[1, 2]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[3, 1]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 1]
+[3, 2]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 2]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 1]
+[1, 2]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[3, 1]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 1]
+[3, 2]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 2]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 1]
+[1, 2]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[3, 1]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 1]
+[3, 2]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 2]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 1]
+[1, 2]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[3, 1]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 1]
+[3, 2]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 2]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 1]
+[1, 2]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[3, 1]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 1]
+[3, 2]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 2]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 1]
+[1, 2]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[3, 1]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 1]
+[3, 2]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 2]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 1]
+[1, 2]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[3, 1]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 1]
+[3, 2]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 2]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 1]
+[1, 2]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[3, 1]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 1]
+[3, 2]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 2]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 1]
+[1, 2]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[3, 1]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 1]
+[3, 2]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 2]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 1]
+[1, 2]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[3, 1]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 1]
+[3, 2]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 2]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 1]
+[1, 2]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[3, 1]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 1]
+[3, 2]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 2]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 1]
+[1, 2]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[3, 1]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 1]
+[3, 2]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 2]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 1]
+[1, 2]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[3, 1]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 1]
+[3, 2]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 2]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 1]
+[1, 2]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[3, 1]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 1]
+[3, 2]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 2]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 1]
+[1, 2]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[3, 1]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 1]
+[3, 2]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 2]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 1]
+[1, 2]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[3, 1]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 1]
+[3, 2]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 2]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 1]
+[1, 2]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[3, 1]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 1]
+[3, 2]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 2]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 1]
+[1, 2]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[3, 1]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 1]
+[3, 2]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 2]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 1]
+[1, 2]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[3, 1]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 1]
+[3, 2]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 2]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 1]
+[1, 2]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[3, 1]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 1]
+[3, 2]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 2]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 1]
+[1, 2]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[3, 1]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 1]
+[3, 2]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 2]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 1]
+[1, 2]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[3, 1]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 1]
+[3, 2]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 2]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 1]
+[1, 2]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[3, 1]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 1]
+[3, 2]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 2]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 1]
+[1, 2]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[3, 1]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 1]
+[3, 2]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 2]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 1]
+[1, 2]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[3, 1]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 1]
+[3, 2]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 2]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 1]
+[1, 2]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[3, 1]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 1]
+[3, 2]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 2]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 1]
+[1, 2]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[3, 1]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 1]
+[3, 2]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 2]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 1]
+[1, 2]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[3, 1]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 1]
+[3, 2]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 2]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 1]
+[1, 2]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[3, 1]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 1]
+[3, 2]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 2]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 1]
+[1, 2]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[3, 1]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 1]
+[3, 2]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 2]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 1]
+[1, 2]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[3, 1]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 1]
+[3, 2]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 2]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 1]
+[1, 2]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[3, 1]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 1]
+[3, 2]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 2]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 1]
+[1, 2]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[3, 1]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 1]
+[3, 2]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 2]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 1]
+[1, 2]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[3, 1]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 1]
+[3, 2]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 2]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 1]
+[1, 2]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[3, 1]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 1]
+[3, 2]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 2]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 1]
+[1, 2]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[3, 1]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 1]
+[3, 2]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 2]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 1]
+[1, 2]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[3, 1]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 1]
+[3, 2]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 2]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 1]
+[1, 2]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[3, 1]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 1]
+[3, 2]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 2]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 1]
+[1, 2]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[3, 1]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 1]
+[3, 2]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 2]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 1]
+[1, 2]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[3, 1]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 1]
+[3, 2]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 2]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 1]
+[1, 2]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[3, 1]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 1]
+[3, 2]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 2]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 1]
+[1, 2]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[3, 1]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 1]
+[3, 2]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 2]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 1]
+[1, 2]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[3, 1]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 1]
+[3, 2]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 2]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 1]
+[1, 2]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[3, 1]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 1]
+[3, 2]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 2]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 1]
+[1, 2]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[3, 1]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 1]
+[3, 2]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 2]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 1]
+[3, 1]
+[2, 1]
+[1, 2]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de sistema 2
+Syscall ESCR
+Escalonando...
+[0, 2]
+[3, 1]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 3 (E/S: relógio)
+Escalonando...
+[0, 1]
+[3, 2]
+[2, 1]
+[1, 1]
+SO: recebi IRQ 2 (Chamada de sistema)
+SO: chamada de 
